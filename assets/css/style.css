@@ -1165,6 +1165,7 @@ section {
 }
 
 .team .member .social a i {
+  margin-left: 10px;
   line-height: 0;
 }
 
